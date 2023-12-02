@@ -42,7 +42,7 @@ information and register.
 
 # • Applying for Bus Pass:
 
-– The user must complete an application form that requests personal information as well as a series of formal papers for verification of the information
+– The user must complete an application form that requests personal information as well as a series of formal papers for verification of the information
 provided.
 
 – Once the application is validated, payment must be done on the website.
