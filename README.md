@@ -95,17 +95,17 @@ ID.
 
 # • Accessing previous records of tickets:
 
-– The user will be able to access their previous tickets in a folder in the website
+– The user will be able to access their previous tickets in a folder on the website
 itself.
 
-– He/she will be able to make any set of changes in the folder like deleting any
+– He/she will be able to make any set of changes in the folder, like deleting any
 previous ticket.
 
 # • Bus Tracking:
 
 – Assuming that the buses run on time, a static kind of model is built.
 
-– The user can access this for knowing the current running status of the bus.
+– The user can access this to know the current running status of the bus.
 
 #• Rating and Feedback:
 
@@ -116,7 +116,7 @@ their valuable feedback on the website.
 
 # • Login:
 
-– The admin needs to login using the login credentials. Only then, he/she can
+– The admin needs to log in using the login credentials. Only then he/she can
 make any changes in the database and the website.
 
 # • Release tickets for the buses:
